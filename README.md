@@ -1,3 +1,13 @@
+# E-Commerce app
+Build with ReactJs, CommerceJs, MaterialUI
+Implemented payment gateway using stripe
+also you can check live website on netlify - https://e-commerceby.netlify.app/
+
+Steps to run - first make account on stripe and commerceJs and add their public key in .env file
+then run below commands 
+npm install
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
