@@ -4,8 +4,8 @@ Implemented payment gateway using stripe
 also you can check live website on netlify - https://e-commerceby.netlify.app/
 
 Steps to run - first make account on stripe and commerceJs and add their public key in .env file
-then run below commands 
-npm install
+then run below commands <br>
+npm install<br>
 npm start
 
 # Getting Started with Create React App
