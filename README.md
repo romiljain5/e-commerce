@@ -3,6 +3,9 @@ Build with ReactJs, CommerceJs, MaterialUI
 Implemented payment gateway using stripe
 also you can check live website on netlify - https://e-commerceby.netlify.app/
 
+### Project Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hyqAG_hrfI8/0.jpg)](https://www.youtube.com/watch?v=hyqAG_hrfI8)
+
 Steps to run - first make account on stripe and commerceJs and add their public key in .env file
 then run below commands <br>
 npm install<br>
